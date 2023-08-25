@@ -42,6 +42,7 @@ Além da mudança do perfil do consumidor estamos vivenciando uma transformacao 
  
  
  Desvantagem  : Nao e uma plataforma com espaco para varios empreendedores. Nao tem produtos para diferentes tipos de cabelo. Nao tem pagina para cada produto.Nao tem espaco de comentarios para os consumidores colocarem a sua opniao.
+ 
 
 - **B.O.B**
  O que faz   | E um site de e-commerce de cosmesticos sustentaveis feito por uma empresa

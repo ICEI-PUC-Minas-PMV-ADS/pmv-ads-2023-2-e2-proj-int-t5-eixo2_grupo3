@@ -10,9 +10,13 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e08e40a8-656a-4627-a3c8-78d7147f582c)
 Nome: Carolina Martins
+
 Sexo: Feminino, Mulher Cis
+
 Idade: 35 anos
+
 Localização: Belo Horizonte, Minas Gerais
+
 Ocupação: Empreendedora na área de produtos naturais para cabelos.
 Qualificação: Formada em Farmácia na Pontifícia Universidade Católica de Minas Gerais em 2015
 História: Vinda da periferia de Belo Horizonte, filha de uma faxineira e de um catador de recicláveis, Carolina cresceu observando as dificuldades financeiras dos pais, sempre valorizou todos os recursos dos pais e admirou o trabalho do pai junto ao meio ambiente. Apesar de todas as dificuldades conseguiu se formar na faculdade de Farmácia e hoje possui sua própria empresa de produtos naturais em barra para cabelos.

@@ -57,7 +57,7 @@ Localização: Rio de Janeiro RJ.
 
 Ocupação: Estudante de curso superior.
 
-História: 
+História: Mora com os pais, com as crescentes mudanças no clima global vem cada vez mais se preocupando com as questões de sustentabilidade, com isso procurou colocar como uma meta para si mesmo usar produtos que sejam sustentáveis como uma forma de amenizar o impacto ambiental.
 
 
 ## Histórias de Usuários

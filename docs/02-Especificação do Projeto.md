@@ -8,7 +8,7 @@
 
 Nome: Carolina Martins
 
-Sexo: Feminino, Mulher Cis
+Sexo: Feminino
 
 Idade: 35 anos
 
@@ -29,7 +29,7 @@ Frustrações: Pouca visibilidade em meio a tantos produtos industrializados já
 
 Nome: Aurora Noronha
 
-Sexo: Feminino, Mulher Cis
+Sexo: Feminino
 
 Idade: 26 anos
 

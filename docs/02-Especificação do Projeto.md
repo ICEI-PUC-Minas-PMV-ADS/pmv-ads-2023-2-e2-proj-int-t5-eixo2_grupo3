@@ -8,19 +8,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e08e40a8-656a-4627-a3c8-78d7147f582c)
+Nome: Carolina Martins
+Sexo: Feminino, Mulher Cis
+Idade: 35 anos
+Localização: Belo Horizonte, Minas Gerais
+Ocupação: Empreendedora na área de produtos naturais para cabelos.
+Qualificação: Formada em Farmácia na Pontifícia Universidade Católica de Minas Gerais em 2015
+História: Vinda da periferia de Belo Horizonte, filha de uma faxineira e de um catador de recicláveis, Carolina cresceu observando as dificuldades financeiras dos pais, sempre valorizou todos os recursos dos pais e admirou o trabalho do pai junto ao meio ambiente. Apesar de todas as dificuldades conseguiu se formar na faculdade de Farmácia e hoje possui sua própria empresa de produtos naturais em barra para cabelos.
+Motivações: Produzir cosméticos em barra visando a diminuição de embalagens plásticas no meio ambiente.
+Frustrações: Pouca visibilidade em meio a tantos produtos industrializados já existentes de marcas conhecidas.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/239e86b4-b6c6-49ee-bea6-48c64dddf55e)
+Nome: Aurora Noronha
+Sexo: Feminino, Mulher Cis
+Idade: 26 anos
+Localização: Tiradentes, Minas Gerais
+Ocupação: Empreendedora na área de produtos naturais para a pele.
+Qualificação: Formada no Curso Superior de Tecnologia em Cosméticos pela Faculdade Oswaldo Cruz em 2021
+História: Vinda de uma família naturalista, cresceu no interior do estado em meio a natureza. Foi para São Paulo para fazer o curso de cosméticos, ao retornar para sua comunidade fundou uma marca de produtos naturais veganos para pele.
+Motivações: Influenciar as pessoas a utilizar produtos naturais e veganos, pensando no bem estar do meio ambiente.
+Frustrações: Pouca divulgação por morar no interior.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 

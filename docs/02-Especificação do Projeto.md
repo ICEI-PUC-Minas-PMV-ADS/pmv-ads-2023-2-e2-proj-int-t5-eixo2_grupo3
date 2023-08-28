@@ -50,6 +50,20 @@ Motivações: Influenciar as pessoas a utilizar produtos naturais e veganos, pen
 
 Frustrações: Pouca divulgação por morar no interior.
 
+#Clientes
+
+Nome: Vanessa Fonseca
+
+Sexo: Feminino
+
+Idade: 21 anos
+
+Localização: Rio de Janeiro RJ.
+
+Ocupação: Estudante de curso superior.
+
+História: 
+
 
 ## Histórias de Usuários
 

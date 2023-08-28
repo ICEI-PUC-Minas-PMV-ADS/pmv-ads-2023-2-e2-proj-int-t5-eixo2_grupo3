@@ -18,20 +18,32 @@ Idade: 35 anos
 Localização: Belo Horizonte, Minas Gerais
 
 Ocupação: Empreendedora na área de produtos naturais para cabelos.
-Qualificação: Formada em Farmácia na Pontifícia Universidade Católica de Minas Gerais em 2015
+
+Qualificação: Formada em Farmácia na Pontifícia Universidade Católica de Minas Gerais em 2015.
+
 História: Vinda da periferia de Belo Horizonte, filha de uma faxineira e de um catador de recicláveis, Carolina cresceu observando as dificuldades financeiras dos pais, sempre valorizou todos os recursos dos pais e admirou o trabalho do pai junto ao meio ambiente. Apesar de todas as dificuldades conseguiu se formar na faculdade de Farmácia e hoje possui sua própria empresa de produtos naturais em barra para cabelos.
+
 Motivações: Produzir cosméticos em barra visando a diminuição de embalagens plásticas no meio ambiente.
+
 Frustrações: Pouca visibilidade em meio a tantos produtos industrializados já existentes de marcas conhecidas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/239e86b4-b6c6-49ee-bea6-48c64dddf55e)
 Nome: Aurora Noronha
+
 Sexo: Feminino, Mulher Cis
+
 Idade: 26 anos
-Localização: Tiradentes, Minas Gerais
+
+Localização: Tiradentes, Minas Gerais.
+
 Ocupação: Empreendedora na área de produtos naturais para a pele.
-Qualificação: Formada no Curso Superior de Tecnologia em Cosméticos pela Faculdade Oswaldo Cruz em 2021
+
+Qualificação: Formada no Curso Superior de Tecnologia em Cosméticos pela Faculdade Oswaldo Cruz em 2021.
+
 História: Vinda de uma família naturalista, cresceu no interior do estado em meio a natureza. Foi para São Paulo para fazer o curso de cosméticos, ao retornar para sua comunidade fundou uma marca de produtos naturais veganos para pele.
+
 Motivações: Influenciar as pessoas a utilizar produtos naturais e veganos, pensando no bem estar do meio ambiente.
+
 Frustrações: Pouca divulgação por morar no interior.
 
 

@@ -10,6 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e08e40a8-656a-4627-a3c8-78d7147f582c)
 
+
 Nome: Carolina Martins
 
 Sexo: Feminino, Mulher Cis
@@ -29,6 +30,7 @@ Motivações: Produzir cosméticos em barra visando a diminuição de embalagens
 Frustrações: Pouca visibilidade em meio a tantos produtos industrializados já existentes de marcas conhecidas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/239e86b4-b6c6-49ee-bea6-48c64dddf55e)
+
 
 Nome: Aurora Noronha
 

@@ -3,6 +3,8 @@
 
 ## Personas
 
+# Empreendedores
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e08e40a8-656a-4627-a3c8-78d7147f582c)
 
 
@@ -47,6 +49,9 @@ Frustrações: Pouca divulgação por morar no interior.
 
 # Clientes
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/38495a32-1ff7-4d55-b952-e590784062bd)
+
+
 Nome: Vanessa Fonseca.
 
 Sexo: Feminino.
@@ -58,6 +63,8 @@ Localização: Rio de Janeiro capital.
 Ocupação: Estudante de curso superior.
 
 História: Mora com os pais, com as crescentes mudanças no clima global vem cada vez mais se preocupando com as questões de sustentabilidade, com isso procurou colocar como uma meta para si mesmo usar produtos que sejam sustentáveis como uma forma de amenizar o impacto ambiental.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/fcde4ee4-c067-41aa-9de6-39bc026c6d57)
 
 
 Nome: Roberta Madureira.

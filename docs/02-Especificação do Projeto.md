@@ -124,8 +124,16 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| O sistema deve permitir que o usuário cadastre uma conta | ALTA | 
+|RF-002| O sistema deve permitir que o usuário empreendedor cadastre um item   | ALTA |
+|RF-003| O sistema deve permitir que o usuário empreendedor edite um item | ALTA | 
+|RF-004| O sistema deve permitir que o usuário empreendedor exclua um item | ALTA | 
+|RF-005| O sistema deve permitir que o usuário empreendedor responda um questionário ou comentário | BAIXA | 
+|RF-006| O sistema deve permitir que o usuário comprador pesquise um item | ALTA | 
+|RF-007| O sistema deve permitir que o usuário comprador adicione um item no carrinho de compras | ALTA | 
+|RF-008| O sistema deve permitir que o usuário comprador edite um item no carrinho de compras | ALTA | 
+|RF-009| O sistema deve permitir que o usuário comprador finalize carrinho de compras | ALTA | 
+|RF-010| O sistema deve permitir que o usuário comprador registre um questionário ou comentário | BAIXA | 
 
 ### Requisitos não Funcionais
 

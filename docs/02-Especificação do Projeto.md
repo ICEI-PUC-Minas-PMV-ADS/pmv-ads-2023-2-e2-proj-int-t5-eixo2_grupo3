@@ -92,10 +92,20 @@
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|      EU COMO       |            QUERO/PRECISO           |                   PARA                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Empreendedor        | Criar uma conta pessoal            | Divulgar minha empresa                 |
+|Empreendedor        | Registrar itens            | Divulgar meus produtos                 |
+|Empreendedor        | Alterar itens            | Modificar o estoque e informações dos produtos                 |
+|Empreendedor        | Excluir itens             | Retirar do site                 |
+|Empreendedor        | Ter acesso as dúvidas e comentários            | Responder seus clientes                 |
+|Comprador        | Criar uma conta pessoal            | Ter acesso a loja                 |
+|Comprador        | Pesquisar os itens             | Encontrar o que deseja                 |
+|Comprador        | Ter acesso as dúvidas e comentários | Questionar sobre um produto ou fazer um comentário após a compra |
+|Comprador        | Selecionar itens            | Adicionar no carrinho de compras                 |
+|Comprador        | Ter acesso ao carrinho de compras            | Visualizar os itens selecionados                 |
+|Comprador        | Editar o carrinho de compras            | Ajustar quantidades de cada item ou deletar algum item                 |
+|Comprador        | Finalizar carrinho de compras           | Realizar a compra                 |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

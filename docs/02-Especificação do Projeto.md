@@ -47,17 +47,30 @@ Frustrações: Pouca divulgação por morar no interior.
 
 # Clientes
 
-Nome: Vanessa Fonseca
+Nome: Vanessa Fonseca.
 
-Sexo: Feminino
+Sexo: Feminino.
 
-Idade: 21 anos
+Idade: 21 anos.
 
-Localização: Rio de Janeiro RJ.
+Localização: Rio de Janeiro capital.
 
 Ocupação: Estudante de curso superior.
 
 História: Mora com os pais, com as crescentes mudanças no clima global vem cada vez mais se preocupando com as questões de sustentabilidade, com isso procurou colocar como uma meta para si mesmo usar produtos que sejam sustentáveis como uma forma de amenizar o impacto ambiental.
+
+
+Nome: Roberta Madureira.
+
+Sexo: Feminino.
+
+Idade: 33 anos.
+
+Localização: São Paulo capital.
+
+Ocupação: Cabelereira.
+
+História: Possui seu próprio salão, vem apostando na sustentabilidade como uma forma de atrair um público novo que pensa de forma consciente para seu comércio, acredita que levantando essa bandeira pode agregar mais valor aos seus serviços e ao mesmo tempo ajuda o meio ambiente.
 
 
 ## Histórias de Usuários

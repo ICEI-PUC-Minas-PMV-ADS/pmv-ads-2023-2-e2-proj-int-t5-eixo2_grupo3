@@ -94,18 +94,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |      EU COMO       |            QUERO/PRECISO           |                   PARA                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Empreendedor        | Criar uma conta pessoal            | Divulgar minha empresa                 |
-|Empreendedor        | Registrar itens            | Divulgar meus produtos                 |
-|Empreendedor        | Alterar itens            | Modificar o estoque e informações dos produtos                 |
-|Empreendedor        | Excluir itens             | Retirar do site                 |
-|Empreendedor        | Ter acesso as dúvidas e comentários            | Responder seus clientes                 |
-|Comprador        | Criar uma conta pessoal            | Ter acesso a loja                 |
-|Comprador        | Pesquisar os itens             | Encontrar o que deseja                 |
-|Comprador        | Ter acesso as dúvidas e comentários | Questionar sobre um produto ou fazer um comentário após a compra |
-|Comprador        | Selecionar itens            | Adicionar no carrinho de compras                 |
-|Comprador        | Ter acesso ao carrinho de compras            | Visualizar os itens selecionados                 |
-|Comprador        | Editar o carrinho de compras            | Ajustar quantidades de cada item ou deletar algum item                 |
-|Comprador        | Finalizar carrinho de compras           | Realizar a compra                 |
+|Carolina Martins / Aurora Noronha (Empreendedor) | Divulgar meus produtos | Para aumentar minhas vendas |
+|Carolina Martins (Empreendedor) | Aumentar o mercado de produtos com embalagens sustentáveis | Diminuir a poluição no planeta |
+|Aurora Noronha (Empreendedor) | Aumentar o mercado de produtos naturais | Diminuir a poluição por produtos químicos industrializados |
+|Carolina Martins / Aurora Noronha (Empreendedor) | Receber comentários dos produtos | Estar sempre me atualizando  |
+|Carolina Martins / Aurora Noronha (Empreendedor) | Responder as perguntas dos meus clientes | Auxiliar em minhas vendas |
+|Roberta Madureira (Cliente) | Utilizar produtos sustentáveis | Para atrair um público em meu salão que também possui o pensamento voltado para sustentabilidade |
+|Ativista ambiental Cliente | Encontrar produtos veganos | Ajudar dar apoio à causa dos animais |
+|Vanessa Fonseca (Cliente) | Encontrar produtos com embalagens sustentáveis | Diminuir a poluição no planeta |
+|Comprador        |   |                |
+|Comprador        |            |                 |
+|Comprador        |             |                |
+|Comprador        |        |                  |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 

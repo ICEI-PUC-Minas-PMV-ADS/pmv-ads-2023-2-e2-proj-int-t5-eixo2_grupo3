@@ -31,7 +31,7 @@ Além da mudança do perfil do consumidor estamos vivenciando uma transformaçã
 
 
 ## Soluções Relacionadas
-- **Florda vida holistica**
+- **Flor da vida holistica**
  O que faz   | É um site de e-commerce de cosméticos sustentáveis feito por uma empreendedora.
  
  

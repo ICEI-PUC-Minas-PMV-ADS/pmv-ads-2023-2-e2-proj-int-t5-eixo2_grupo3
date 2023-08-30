@@ -7,7 +7,8 @@ Crédito de logística reversa. Cosméticos sustentáveis: uma alternativa para 
 Stoa Indústria. Como a produção de cosméticos impacta o meio ambiente? **Stoa Indústria**, 2023. 
 Disponível em: https://stoaindustria.com/blog/como-a-producao-de-cosmeticos-impacta-o-meio-ambiente/. Acesso em: 24 de aug. 2023.
 
-O mundo de Walle. RESÍDUOS SÓLIDOS | Meio Ambiente e Consumo Consciente. **O mundo de Walle**, 2023. Disponível em: https://omundodewalle.wordpress.com/residuos-solidos/#:~:text=O%20total%20mundial%20de%20res%C3%ADduos,%2C%20que%20inclui%2034%20pa%C3%ADses). Acesso em: 24 de aug. 2023.
+O mundo de Walle. RESÍDUOS SÓLIDOS | Meio Ambiente e Consumo Consciente. **O mundo de Walle**, 2023. 
+Disponível em: https://omundodewalle.wordpress.com/residuos-solidos/#:~:text=O%20total%20mundial%20de%20res%C3%ADduos,%2C%20que%20inclui%2034%20pa%C3%ADses). Acesso em: 24 de aug. 2023.
 
 CNN. Geração de resíduos no mundo deve chegar a 3,4 bilhões de toneladas por ano até 2050. **CNN Brasil**,  15 aug. 2022. Disponível em: https://www.cnnbrasil.com.br/internacional/geracao-de-residuos-no-mundo-deve-chegar-a-34-bilhoes-de-toneladas-por-ano-ate-2050/. Acesso em: 24 de aug. 2023.
 

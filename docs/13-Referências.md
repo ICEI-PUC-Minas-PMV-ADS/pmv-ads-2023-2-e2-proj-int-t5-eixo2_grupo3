@@ -28,6 +28,4 @@ Sebrae. O que é a digitalização de empresas e como começá-la? **Sebrae**, 1
 
 
 
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/trabalhos-academicos/referencias/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+

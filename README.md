@@ -1,23 +1,23 @@
-# TÍTULO DO PROJETO
+# PROJETO ECO EMPREENDEDORES
 
-`CURSO`
+`Análise e desonvolvimento de Sistemas`
 
-`DISCIPLINA`
+`2º Eixo`
 
-`SEMESTRE`
+`2º SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Projeto ECO EMPREENDEDORES visa desenvolver uma solução tecnológica que possibilita os empreendedores, que buscam diminuição de lixo gerado e a diminuição de produtos que utilizam susbstancias substâncias químicas, inclusive petroquímicas, chamadas de Poluentes Orgânicos Persistentes, a venderem os seus produtos sustentáveis e ser facilitar a compra para os consumidores.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Amanda Goncalves Gomes
+* Ana Paula Amantea
+* Breno Amantea
+* Monique Moura Freitas
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana de Nardin
 
 ## Instruções de utilização
 

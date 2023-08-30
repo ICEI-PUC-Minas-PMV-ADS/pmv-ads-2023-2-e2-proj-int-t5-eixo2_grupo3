@@ -124,16 +124,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O sistema deve permitir que o usuário cadastre uma conta | ALTA | 
-|RF-002| O sistema deve permitir que o usuário empreendedor cadastre um item   | ALTA |
-|RF-003| O sistema deve permitir que o usuário empreendedor edite um item | ALTA | 
-|RF-004| O sistema deve permitir que o usuário empreendedor exclua um item | ALTA | 
-|RF-005| O sistema deve permitir que o usuário empreendedor responda um questionário ou comentário | BAIXA | 
-|RF-006| O sistema deve permitir que o usuário comprador pesquise um item | ALTA | 
-|RF-007| O sistema deve permitir que o usuário comprador adicione um item no carrinho de compras | ALTA | 
-|RF-008| O sistema deve permitir que o usuário comprador edite um item no carrinho de compras | ALTA | 
-|RF-009| O sistema deve permitir que o usuário comprador finalize carrinho de compras | ALTA | 
-|RF-010| O sistema deve permitir que o usuário comprador registre um questionário ou comentário | BAIXA | 
+|RF-001| O sistema deve permitir que o usuário do tipo empreendedor ou do tipo cliente gerencie a sua conta | ALTA | 
+|RF-002|O sistema deve permitir que o empreendedor gerencie o produto a ser comercializado | ALTA |
+|RF-003| O sistema deve permitir que o empreendedor responda a dúvidas ou comentários dos clientes sobre o produto | BAIXA | 
+|RF-004| O sistema deve permitir que o empreendedor e o cliente visualize o questionário | BAIXA | 
+|RF-005| O sistema deve permitir que o empreendedor informe se o produto é vagano ou não | ALTA | 
+|RF-006| O sistema deve permitir que o cliente pesquise um produto por critérios diversos | ALTA | 
+|RF-007| O sistema deve permitir que o cliente gerencie os produtos no carrinho de compras | ALTA | 
+|RF-008| O sistema deve permitir que o cliente finalize carrinho de compras | ALTA | 
+|RF-009| O sistema deve dar baixa no estoque ao final de cada venda | ALTA | 
+|RF-010| O sistema deve emitir ao empreendedor um relatório de vendas | ALTA | 
+|RF-011| O sistema deve permitir que o cliente faça perguntas ou envie comentários | BAIXA | 
 
 ### Requisitos não Funcionais
 

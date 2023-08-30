@@ -6,7 +6,7 @@
 
 `2º SEMESTRE`
 
-O Projeto ECO EMPREENDEDORES visa desenvolver uma solução tecnológica que possibilita os empreendedores, que buscam diminuição de lixo gerado e a diminuição de produtos que utilizam susbstancias substâncias químicas, inclusive petroquímicas, chamadas de Poluentes Orgânicos Persistentes, a venderem os seus produtos sustentáveis e ser facilitar a compra para os consumidores.
+O Projeto ECO EMPREENDEDORES visa desenvolver uma solução tecnológica que possibilita os empreendedores, que buscam diminuição de lixo gerado e a diminuição de produtos que utilizam substâncias químicas, inclusive petroquímicas, chamadas de Poluentes Orgânicos Persistentes, a venderem os seus produtos sustentáveis e ser facilitar a compra para os consumidores.
 
 ## Integrantes
 

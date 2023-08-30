@@ -11,16 +11,12 @@ Para atender esta demanda surgiram cosméticos sustentáveis, são cosméticos f
 ## Problema
 Devido à gravidade dos impactos ambientais, a indústria e os consumidores demandam por mais alternativas acessíveis de cosméticos sustentáveis, e por ser um setor novo e inovador muito do seu potencial ainda não é aproveitado.
 
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+
 
 ## Objetivos
-Desenvolver uma solução tecnológica que facilita o acesso dos consumidores aos cosméticos sustentáveis.
+Objetivo geral - Desenvolver uma solução tecnológica que facilita o acesso dos consumidores aos cosméticos sustentáveis.
+Objetivo específico - Desenvolver uma plataforma digital que possibilita os empreendedores venderem os seus produtos sustentáveise e ser fácil a compra para os consumidores.
 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -32,8 +28,7 @@ Além da mudança do perfil do consumidor estamos vivenciando uma transformaçã
 
 
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Soluções Relacionadas
 - **Florda vida holistica**
@@ -59,8 +54,4 @@ Além da mudança do perfil do consumidor estamos vivenciando uma transformaçã
 
 Consumidores e empreendedores de cosméticos sustentáveis
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+

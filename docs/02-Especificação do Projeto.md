@@ -49,6 +49,27 @@
 
 ### Clientes
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b6694dff-4970-4c46-9ae5-2ebd5691a24a)
+
+
+**Nome:** Virginia Castro
+
+**Sexo:** Feminino
+
+**Idade:** 47 anos
+
+**Localização:** São Mateus, Espírito Santo
+
+**Ocupação:** Veterinária e Ativistas nas causas animais.
+
+**Qualificação:** Formada em Veterinária pela Universidade Federal do Espírito Santo em 2000.
+
+**História:** Desde pequena sempre foi muito ligada aos animais, já na adolescência se tornou vegetariana e posteriormente vegana. Por conta do seu amor pelos animais fez o curso de veterinária e atua tanto em uma clínica particular quanto em ONGs voltadas para animais de rua.
+
+**Motivações:** Proteger os animais de todas as formas, inclusive utilizando produtos artesanais que não são testados em animais.
+
+**Frustrações:** Dificuldade de encontrar produtos veganos em sua região.
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/38495a32-1ff7-4d55-b952-e590784062bd)
 
 

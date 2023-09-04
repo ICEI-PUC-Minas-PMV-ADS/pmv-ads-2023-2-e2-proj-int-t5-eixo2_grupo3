@@ -123,10 +123,6 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Roberta Madureira (Cliente) | Utilizar produtos sustentáveis | Para atrair um público em meu salão que também possui o pensamento voltado para sustentabilidade |
 |Ativista ambiental Cliente | Encontrar produtos veganos | Ajudar dar apoio à causa dos animais |
 |Vanessa Fonseca (Cliente) | Encontrar produtos com embalagens sustentáveis | Diminuir a poluição no planeta |
-|Comprador        |   |                |
-|Comprador        |            |                 |
-|Comprador        |             |                |
-|Comprador        |        |                  |
 
 
 ## Requisitos

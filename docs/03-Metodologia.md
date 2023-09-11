@@ -25,16 +25,16 @@ A quipe está divida da seguinte forma:
 
 - Planejamento:
 
-     Dois documentos foram planejados: Documento de Contexto e Especificação do Projeto
+     Dois documentos foram planejados: Documentação da Metodologia e Projeto do Github com Backlog e Plano de Sprints.
      
-     - Documento de Contexto | As tarefas que foram planejadas | 
+     - Documentação da Metodologia  | As tarefas que foram planejadas | 
      
           Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
           
      
      - Especificação do Projeto | As tarefas que foram planejadas | 
      
-          Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto
+          Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do   projeto
 
 
 

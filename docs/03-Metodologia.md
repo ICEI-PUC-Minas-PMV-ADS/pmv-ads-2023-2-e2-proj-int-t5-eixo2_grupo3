@@ -29,7 +29,7 @@ A quipe está divida da seguinte forma:
      
      - Documentação da Metodologia  | As tarefas que foram planejadas | 
      
-          Introdução, elaboração dos diagramas, do projeto de bases e dos testes
+          Introdução, elaboração dos diagramas, do projeto da base de dados e dos planos de testes
           
      
      - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 

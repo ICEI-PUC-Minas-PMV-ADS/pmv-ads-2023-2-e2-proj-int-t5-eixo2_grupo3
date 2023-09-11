@@ -29,12 +29,12 @@ A quipe está divida da seguinte forma:
      
      - Documentação da Metodologia  | As tarefas que foram planejadas | 
      
-          Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
+          Introdução, elaboração dos diagramas, do projeto de bases e dos testes
           
      
-     - Especificação do Projeto | As tarefas que foram planejadas | 
+     - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
      
-          Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do   projeto
+          Início das Sprints e divisão das tarefas 
 
 
 

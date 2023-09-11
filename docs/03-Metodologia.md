@@ -5,7 +5,9 @@
 
 Através da compreensão do contexto social no qual a nossa aplicação estará inserida, das necessidades dos nossos usuários e das oportunidades do mercado, nosso grupo realizou passos importantes para prosseguirmos com o projeto. Determinamos os papéis dos integrantes, mantemos o modelo Scrum com a equipe geograficamente distribuída, elaboramos o Product Backlog e as tarefas das Sprints, criamos o Kanban e escolhemos as nossas ferramentas.
 
-# Divisão de Papéis
+## Gerenciamento de Projeto
+
+### Divisão de Papéis
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para difinição do processo de desenvolvimento.
 

@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+Através da compreensão do contexto social no qual a nossa aplicação estará inserida, das necessidades dos nossos usuários e das oportunidades do mercado, nosso grupo realizou passos importantes para prosseguirmos com o projeto. Determinamos os papéis dos integrantes, mantemos o modelo Scrum com a equipe geograficamente distribuída, elaboramos o Product Backlog e as tarefas das Sprints, criamos o Kanban e escolhemos as nossas ferramentas.
 
 # Divisão de Papéis
 

@@ -16,6 +16,29 @@ A quipe está divida da seguinte forma:
 - **Desenvolvedores:**
 
 
+  ### Processo
+
+
+
+**Etapa 1:**
+
+
+- Planejamento:
+
+     Dois documentos foram planejados: Documento de Contexto e Especificação do Projeto
+     
+     - Documento de Contexto | As tarefas que foram planejadas | 
+     
+          Introdução, Problema, Objetivos, Justificativas, Soluções relacionadas e Público-Alvo
+          
+     
+     - Especificação do Projeto | As tarefas que foram planejadas | 
+     
+          Introdução, criação das personas, elaboração das histórias de usuários, Levantamento dos Requisitos (Funcionais e Não Funcionais) e criar as Restrições do             projeto
+
+
+
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o

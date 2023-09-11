@@ -38,7 +38,13 @@ A quipe está divida da seguinte forma:
      
           Início das Sprints e divisão das tarefas 
 
+### Ferramentas
 
+Ferramentas empregadas no projeto:
+
+ - Comunicação: Whatsapp e Google meet.
+ - Desenvolvimento de telas: Figma.
+ - Repositório: GitHub
 
 
 ## Controle de Versão

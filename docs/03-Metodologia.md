@@ -13,7 +13,7 @@ A quipe está divida da seguinte forma:
 
 - **Scrum Master:** 
 - **Product Owner:** 
-- **Desenvolvedores:**  Monique
+- **Desenvolvedores:**
 
 
 ## Controle de Versão

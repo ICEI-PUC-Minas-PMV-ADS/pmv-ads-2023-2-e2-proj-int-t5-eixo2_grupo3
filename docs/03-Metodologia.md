@@ -43,7 +43,7 @@ A quipe está divida da seguinte forma:
 Ferramentas empregadas no projeto:
 
  - Comunicação: Whatsapp e Google meet.
- - Desenvolvimento de telas: Figma, Creately, Lucichart.
+ - Desenvolvimento de telas: Figma, Creately, Lucidchart.
  - Repositório: GitHub
 
 

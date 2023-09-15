@@ -13,7 +13,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER (Projeto Conceitual)
 
-![Modelo entidade relacioamento]
+![Modelo entidade relacioamento](docs/img/Modelo entidade relacionamento .png)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 

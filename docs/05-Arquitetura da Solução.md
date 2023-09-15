@@ -13,7 +13,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER (Projeto Conceitual)
 
-!https://lucid.app/lucidchart/7a1237e8-8703-4dc1-937f-dc9546e881bf/edit?viewport_loc=-250%2C128%2C1997%2C923%2C0_0&invitationId=inv_342debd7-321a-4473-88a6-1e6044cff298
+![Modelo entidade relacioamento] (https://lucid.app/lucidchart/7a1237e8-8703-4dc1-937f-dc9546e881bf/edit?viewport_loc=-250%2C128%2C1997%2C923%2C0_0&invitationId=inv_342debd7-321a-4473-88a6-1e6044cff298)
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 

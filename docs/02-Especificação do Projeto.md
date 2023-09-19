@@ -68,7 +68,7 @@
 
 **Motivações:** Proteger os animais de todas as formas, inclusive utilizando produtos artesanais que não são testados em animais.
 
-**Frustrações:** Dificuldade de encontrar produtos veganos em sua região.
+**Frustrações:** Pouca divulgação de produtos veganos na sociedade.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/38495a32-1ff7-4d55-b952-e590784062bd)
 
@@ -87,7 +87,7 @@
 
 **Motivações:** Ajudar o meio ambiente utilizando produtos sustentáveis.
 
-**Frustrações:** Dificuldade em encontrar os produtos.
+**Frustrações:** O crescente acumulo de lixo gerado.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/fcde4ee4-c067-41aa-9de6-39bc026c6d57)
 

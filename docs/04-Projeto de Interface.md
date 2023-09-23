@@ -45,7 +45,11 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ![PÁGINA NOVO PRODUTO USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/00ce9fd2-5c97-4a38-9f68-61c2efd8579a)
 
+![Wireframe - 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/943b9659-6bc5-4b28-b09c-91ada10ca2a1)
+
 ![PÁGINA RELATÓRIO DE VENDAS USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/bcfca53c-13d3-420f-854e-1597a568259f)
+
+![Uploading Wireframe - 8.jpg…]()
 
 ![PÁGINA PERFIL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b1c45223-adbc-4820-bcf3-89146baaea08)
 

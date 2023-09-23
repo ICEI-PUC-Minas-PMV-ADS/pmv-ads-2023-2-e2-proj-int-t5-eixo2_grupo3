@@ -23,7 +23,45 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-[Wireframe Eco Empreendedores.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/files/12705082/Wireframe.Eco.Empreendedores.pdf)
+![PÁGINA INICIAL GERAL](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/8c5459c3-17f4-40cf-ab98-55836672a370)
+
+![Wireframe - 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/8ebfcfd2-8074-43dc-b7eb-34d219ea9df8)
+
+![PÁGINA LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/c901ccf5-e26b-4389-b963-f8618bf9c005)
+
+![Wireframe - 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/503892f8-d6c2-4bc6-ac95-deb85bcc28cb)
+
+![PÁGINA NOVO CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e98173f8-dad3-431f-a5c3-b6e3a8377693)
+
+![Wireframe - 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a07bee2f-b85a-441a-8f1f-3e6695d9e659)
+
+![PÁGINA INICIAL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/cb71a68b-3144-4d52-b4f5-8d22fb64ac2f)
+
+![Wireframe - 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/31666ee5-0ffd-484a-8d92-6085ea2aa77c)
+
+![PÁGINA INICIAL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a3d9a1c8-ba62-41b1-9226-99357ba81124)
+
+![Wireframe - 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/d25e8a39-c294-44a5-8995-558f697807b8)
+
+![PÁGINA NOVO PRODUTO USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/00ce9fd2-5c97-4a38-9f68-61c2efd8579a)
+
+![PÁGINA RELATÓRIO DE VENDAS USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/bcfca53c-13d3-420f-854e-1597a568259f)
+
+![PÁGINA PERFIL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b1c45223-adbc-4820-bcf3-89146baaea08)
+
+![Wireframe - 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/56e51ad4-52f3-4820-a948-44604e284ed1)
+
+![PÁGINA INICIAL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b17cc6f-68b6-48c5-9c7b-0998d7b52de6)
+
+![Wireframe - 9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/43ac1ab7-3e07-4f70-9601-40e0e2d3a8a5)
+
+![PÁGINA CARRINHO DE COMPRAS USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/c38b917b-cb34-428a-aba6-9a17c8fc9fd0)
+
+![Wireframe - 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/f2f7007b-19fb-4441-ac9d-0143b2bd1663)
+
+![PÁGINA COMPRA FINALIZADA USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e39e4e43-a314-489f-9cbd-9e0f431321f3)
+
+![Wireframe - 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/9f6130ea-df98-4de7-bc0c-5d2081fb322c)
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

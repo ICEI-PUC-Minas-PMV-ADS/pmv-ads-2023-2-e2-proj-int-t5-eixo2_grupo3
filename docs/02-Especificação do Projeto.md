@@ -137,7 +137,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002|O sistema deve permitir que o empreendedor gerencie o produto a ser comercializado | ALTA |
 |RF-003| O sistema deve permitir que o empreendedor e o cliente visualize a seção de comentários | BAIXA | 
 |RF-004| O sistema deve permitir que o empreendedor e clientes possam ter uma comunicação na seção de comentários | BAIXA | 
-|RF-005| O sistema deve permitir que o empreendedor informe se o produto é vagano ou não | ALTA | 
+|RF-005| O sistema deve permitir que o empreendedor informe se o produto é "vegano" ou "não vegano" | ALTA | 
 |RF-006| O sistema deve permitir que o cliente pesquise um produto por critérios diversos | ALTA | 
 |RF-007| O sistema deve permitir que o cliente gerencie os produtos no carrinho de compras | ALTA | 
 |RF-008| O sistema deve permitir que o cliente finalize carrinho de compras | ALTA | 

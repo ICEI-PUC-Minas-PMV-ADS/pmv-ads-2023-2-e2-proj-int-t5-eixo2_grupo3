@@ -20,10 +20,15 @@ Por exemplo:
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Gerenciar produtos"|
 |Critério de Êxito | - O usuário empreendedor consegue abrir a página "gerenciar produtos" com sucesso. |
 |  	|  	|
-|	Requisito Associado 	| RF-003 - A aplicação deve permitir os usuários (tanto empreendedores e clientes) consigam visualizar os comentários na páginas dos produtos. |
+|	Requisito Associado 	| RF-003 - A aplicação deve permitir os usuários (tanto os empreendedores e quanto os clientes) consigam visualizar os comentários na páginas dos produtos. |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar a seção de comentários nas página dos produtos. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Produtos" <br> - escolher um produto e clicar|
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Produtos" <br> - escolher um produto e clicar neste|
 |Critério de Êxito | - O usuário consegue visualizar a seção de comentários na página do produtos escolhido com sucesso. |
+|  	|  	|
+|	Requisito Associado 	| RF-004 - A aplicação deve permitir os usuários (tanto empreendedores e quanto os clientes) possam interagir na seção de comentários na páginas dos produtos. |
+| Objetivo do Teste 	| Verificar se o usuário consegue fazer um comentário na a seção de comentários nas página dos produtos. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Produtos" <br> - escolher um produto e clicar <br> - preencher no campo do "comentário" <br> - clicar "Enviar"|
+|Critério de Êxito | - O usuário consegue fazer um comentário na seção de comentários na página do produtos escolhido com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |

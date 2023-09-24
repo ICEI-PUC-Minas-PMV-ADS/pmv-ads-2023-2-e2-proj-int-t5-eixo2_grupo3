@@ -30,6 +30,16 @@ Por exemplo:
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Produtos" <br> - escolher um produto e clicar <br> - preencher no campo do "comentário" <br> - clicar "Enviar"|
 |Critério de Êxito | - O usuário consegue fazer um comentário na seção de comentários na página do produtos escolhido com sucesso. |
 |  	|  	|
+|Requisito Associado | RF-005	- A aplicação deve apresentar a informação "vegano" ou "não vegano" nas páginas dos produtos |
+| Objetivo do Teste 	| Verificar se o usuário cliente consegue visualizar a informação. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Clicar em "Produtos"<br> - escolher um e clicar|
+|Critério de Êxito | - O usuário consegue visualizar as informações "vegano" ou "não vegano" na página do produto escolhido com sucesso. |
+|  	|  	|
+|Requisito Associado | RF-006	- A aplicação deve permitir que os usuários clientes consigam pesquisar os produtos por diferentes critérios |
+| Objetivo do Teste 	| Verificar se o usuário cliente consegue pesquisar e filtrar por diferentes critérios. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Clicar em "Produtos"<br> - Aparece as opções "Cabelo", "Pele" e "Acessórios"|
+|Critério de Êxito | - O usuário consegue visualizar apenas os produtos referente à opção selecionada  com sucesso. |
+|  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |

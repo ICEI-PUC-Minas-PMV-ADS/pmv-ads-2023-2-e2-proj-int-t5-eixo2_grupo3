@@ -37,7 +37,7 @@ Por exemplo:
 |Requisito Associado | RF-005	- A aplicação deve apresentar a informação "vegano" ou "não vegano" nas páginas dos produtos |
 | Objetivo do Teste 	| Verificar se o usuário cliente consegue visualizar a informação. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Clicar em "Produtos"<br> - escolher um e clicar|
-|Critério de Êxito | O usuário consegue visualizar as informações "vegano" ou "não vegano" na página do produto escolhido com sucesso. |
+|Critério de Êxito | O usuário cliente consegue visualizar as informações "vegano" ou "não vegano" na página do produto escolhido com sucesso. E o usuário empreendedor consegue escolher entre as opções "vegano" ou "não vegano" ao registrar o produto no sistema com sucesso.|
 |  	|  	|
 | **Caso de Teste** 	| **CT-06 – Pesquisar os produtos** 	|
 |Requisito Associado | RF-006	- A aplicação deve permitir que os usuários clientes consigam pesquisar os produtos por diferentes critérios |

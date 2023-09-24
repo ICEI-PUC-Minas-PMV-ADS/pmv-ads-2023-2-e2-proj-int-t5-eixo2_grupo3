@@ -12,7 +12,7 @@ Por exemplo:
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-001 - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Confirmar" |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, data de nascimento,endereco, login, senha, confirmação de senha, tipo, telefone, RG, CPF, ) <br> - Aceitar os termos de uso <br> - Clicar em "Confirmar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-02 – Gerenciar produtos** 	|
@@ -22,10 +22,10 @@ Por exemplo:
 |Critério de Êxito | - O usuário empreendedor consegue abrir a página "gerenciar produtos" com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-03 – Visualizar os comentários** 	|
-|	Requisito Associado 	| RF-003 - A aplicação deve permitir os usuários (tanto os empreendedores e quanto os clientes) consigam visualizar os comentários na páginas dos produtos. |
+|	Requisito Associado 	| RF-003 - A aplicação deve permitir os usuários (os empreendedores e os clientes) consigam visualizar os comentários na páginas dos produtos. |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar a seção de comentários nas página dos produtos. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Produtos" <br> - escolher um produto e clicar neste|
-|Critério de Êxito | - O usuário consegue visualizar a seção de comentários na página do produtos escolhido com sucesso. |
+|Critério de Êxito | - O usuário consegue visualizar a seção de comentários na página do produto escolhido com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-04 – Enviar comentários** 	|
 |	Requisito Associado 	| RF-004 - A aplicação deve permitir os usuários (tanto empreendedores e quanto os clientes) possam interagir na seção de comentários na páginas dos produtos. |
@@ -82,11 +82,16 @@ Por exemplo:
 |Critério de Êxito | - O usuário consegue visualizar os dados atualizado com sucesso. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-13 – Efetuar login** 	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
+|Requisito Associado | RF-03	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
-
+|  	|  	|
+| **Caso de Teste** 	| **CT-14 – Seção de comentários** 	|
+|Requisito Associado | RNF-04	- A aplicação deve possuir uma Seção de comentários nas páginas de cada produto |
+| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Escolher um produto e clicar <br> - Na página do produto visualizar a Seção de comentários <br> - Clicar em no campo de comentário e preencher <br> - Visualizar o comentário |
+|Critério de Êxito | - O comentário foi realizado com sucesso. |
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)

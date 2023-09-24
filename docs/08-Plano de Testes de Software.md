@@ -15,10 +15,10 @@ Por exemplo:
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Confirmar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
-|	Requisito Associado 	| RF-002 - A aplicação deve ter, na página principal do perfil do empreendedor, a funcionalidade de "Gerenciar produtos". Dentre dessa funcionalidade deve possuir os campos "registrar", "editar", "quantidade", "preço", "adicionar imagem" e "deletar" para que os usuários empreendedores consigam gerenciar seus produtos no seu perfil. |
+|	Requisito Associado 	| RF-002 - A aplicação deve ter, na página principal do perfil do empreendedor, a página de "Gerenciar produtos". Dentre dessa página com as funcionalidades "registrar", "editar",  e "deletar" para que os usuários empreendedores consigam gerenciar seus produtos no seu perfil. |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar os produtos no seu perfil na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login" - <br> - clicar em "Gerenciar produtos" <br>|
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Preencher os campos e-mail e senha <br>  - Clicar em "login"  <br> - clicar em "Gerenciar produtos"|
+|Critério de Êxito | - O usuário empreendedor consegue abrir a página "gerenciar produtos" com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Efetuar login	|
 |Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |

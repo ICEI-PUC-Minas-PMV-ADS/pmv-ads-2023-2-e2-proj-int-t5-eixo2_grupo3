@@ -14,7 +14,6 @@ Por exemplo:
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://ecoempreendedor.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Confirmar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
 | **Caso de Teste** 	| **CT-02 – Gerenciar produtos** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - A aplicação deve ter, na página principal do perfil do empreendedor, a página de "Gerenciar produtos". Dentre dessa página com as funcionalidades "registrar", "editar", "deletar" e "Quantidade" para que os usuários empreendedores consigam gerenciar seus produtos no seu perfil. |

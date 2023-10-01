@@ -25,6 +25,12 @@ A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
 
 ## Projeto da Base de Dados
 
+![Banco de dados_page-0001 final](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b69e3f82-49f4-4655-a0cf-534c1c0dfeec)
+
+![Banco de dados_page-0002 final](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/03da0d85-e4fd-408d-976a-a5629c5448fb)
+
+
+
 https://docs.google.com/document/d/1WaWmA5CkIDKi_ok2P81LydJ0KzDiD-MvTRDC6gL5CzM/edit?usp=sharing
 
 ## Tecnologias Utilizadas

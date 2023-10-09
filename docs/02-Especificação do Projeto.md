@@ -152,7 +152,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| O sistema deve garantir que os dados sobre os empreendedores e os consumidores sejam armazenados dentros nas normas da LGPD |  ALTA | 
 |RNF-003| O sistema deve permitir que todos os usuários cadastrados tenham acesso ao aplicativo pelo login e senha |  ALTA | 
 |RNF-004| O sistema deve ter uma seção de comentários|  ALTA | 
-|RNF-005| O sistema deve permitir os consumidores colocarem os produtos selecionados em um carrinho de compras |  ALTA | 
+|RNF-005| O sistema deve permitir os clientes colocarem os produtos selecionados em um carrinho de compras |  ALTA | 
+|RNF-006| O sistema deve ter um banco de dados baseado em MySql |  ALTA | 
+|RNF-007| O sistema deve mostrar o status do usuário após o login |  ALTA |
+|RNF-008| O sistema deve ter verificações antes do usuário desempenhar as funcionalidades registrar, alterar e deletar|  ALTA | 
+
+
 
 
 ## Restrições

@@ -4,6 +4,15 @@
 
 Layout padrão da aplicação que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
+## Guia dos estilos
+
+Antes de estabelecer o template da aplicação, foi desenvolvido um guia de estilos, detalhado nos itens a seguir, que norteou os padrões de design da interface da aplicação.
+
+### Paleta de Cores
+
+![Frame 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/05e3344a-4bd5-4a77-a9d8-c6cc4be48e66)
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)

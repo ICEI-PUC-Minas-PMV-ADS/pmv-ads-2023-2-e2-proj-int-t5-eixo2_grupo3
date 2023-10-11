@@ -20,7 +20,6 @@ Essa combinação cria efeitos de calma e harmonia, o que se assemelha ao que bu
 
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/ac13529e-f85d-4473-ba4d-c4fc1673f24e)
 
 
 > **Links Úteis**:

@@ -18,6 +18,9 @@ Olhando para o círculo cromático, temos vários tipos de combinações de core
 
 Essa combinação cria efeitos de calma e harmonia, o que se assemelha ao que buscamos na natureza, nessa busca pelo sustentável, nesse equilíbrio entre o homem e o meio ambiente.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/91207517-602e-44ec-b9bc-6193ad98056c)
+
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/ac13529e-f85d-4473-ba4d-c4fc1673f24e)
 

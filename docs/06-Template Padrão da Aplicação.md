@@ -10,7 +10,7 @@ Antes de estabelecer o template da aplicação, foi desenvolvido um guia de esti
 
 ### Paleta de Cores
 
-![Frame 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/500bb4b5-8496-40e3-afc4-a3dd4bd7bc07)
+![Frame 1 ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b94196f-a5cc-471b-b329-ba4ee0413b53)
 
 
 

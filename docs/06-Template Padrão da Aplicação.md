@@ -8,20 +8,16 @@ Layout padrão da aplicação que será utilizado em todas as páginas com a def
 
 Antes de estabelecer o template da aplicação, foi desenvolvido um guia de estilos, detalhado nos itens a seguir, que norteou os padrões de design da interface da aplicação.
 
-### Paleta de Cores
+### Paleta de Cores e Tipografia
 
 ![paleta de cores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/41c7359c-d44f-46df-9757-0bc9236a9159)
 
 
-Pensando no foco do site, voltado para empreendedores e clientes que buscam uma vida voltada para a sustentabilidade, logo nos remetemos a Natureza. Imaginando a natureza, automaticamente nos vem a cabeça a cor verde, que se torna nossa paleta principal de cores.
+Ao examinarmos o foco do site, voltado para empreendedores e consumidores que buscam uma vida sustentável, imediatamente nos referimos à natureza. Imaginando a natureza, automaticamente nos vem a cabeça o verde, que se torna nossa paleta principal de cores.
 
-Olhando para o círculo cromático, temos vários tipos de combinações de cores. As Combinações análogas combinam cores que ficam posicionadas lado a lado. É possível combinar entre duas e cinco cores, mas o indicado é que se combine no máximo três cores. 
+Ao analisarmos o círculo cromático, percebemos uma grande variedade de cores. As combinações análogas combinam cores que ficam posicionados lado a lado. É possível combinar entre duas e cinco cores, más o indicado é que se combine no máximo três
 
-Essa combinação cria efeitos de calma e harmonia, o que se assemelha ao que buscamos na natureza, nessa busca pelo sustentável, nesse equilíbrio entre o homem e o meio ambiente.
-
-### Tipografia
-
-Uma das principais características da tipografia inspirada na natureza é a escolha de fontes que remetam a elementos naturais, como folhas, galhos, ondas, entre outros. Dessa forma, optamos por fontes com curvas suaves e orgânicas, que transmitam a sensação de harmonia e conexão com a natureza. As fontes escolhidas foram Chalkboard SE e Chalkboard.
+Uma das principais características da tipografia inspirada na natureza é a escolha de fontes que remetam a elementos naturais, como folhas, galhos e ondas.  Dessa forma, optamos por fontes com curvas suaves e orgânicas, que transmitam a sensação de harmonia e conexão com a natureza.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/387341bf-2069-43c5-b536-44e7dd1c7821)
 

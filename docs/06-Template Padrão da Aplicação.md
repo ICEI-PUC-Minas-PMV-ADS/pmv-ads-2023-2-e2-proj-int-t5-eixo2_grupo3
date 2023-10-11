@@ -12,6 +12,14 @@ Antes de estabelecer o template da aplicação, foi desenvolvido um guia de esti
 
 ![Frame 1 ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b94196f-a5cc-471b-b329-ba4ee0413b53)
 
+Pensando no foco do site, voltado para empreendedores e clientes que buscam uma vida voltada para a sustentabilidade, logo nos remetemos a Natureza. Imaginando a natureza, automaticamente nos vem a cabeça a cor verde, que se torna nossa paleta principal de cores.
+
+Olhando para o círculo cromático, temos vários tipos de combinações de cores. As Combinações análogas combinam cores que ficam posicionadas lado a lado. É possível combinar entre duas e cinco cores, mas o indicado é que se combine no máximo três cores. 
+
+Essa combinação cria efeitos de calma e harmonia, o que se assemelha ao que buscamos na natureza, nessa busca pelo sustentável, nesse equilíbrio entre o homem e o meio ambiente.
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/ac13529e-f85d-4473-ba4d-c4fc1673f24e)
 
 
 > **Links Úteis**:

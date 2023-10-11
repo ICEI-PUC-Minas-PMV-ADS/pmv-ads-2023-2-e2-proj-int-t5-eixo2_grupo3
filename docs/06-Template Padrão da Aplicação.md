@@ -10,7 +10,8 @@ Antes de estabelecer o template da aplicação, foi desenvolvido um guia de esti
 
 ### Paleta de Cores
 
-![Frame 1 ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b94196f-a5cc-471b-b329-ba4ee0413b53)
+![paleta de cores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/41c7359c-d44f-46df-9757-0bc9236a9159)
+
 
 Pensando no foco do site, voltado para empreendedores e clientes que buscam uma vida voltada para a sustentabilidade, logo nos remetemos a Natureza. Imaginando a natureza, automaticamente nos vem a cabeça a cor verde, que se torna nossa paleta principal de cores.
 

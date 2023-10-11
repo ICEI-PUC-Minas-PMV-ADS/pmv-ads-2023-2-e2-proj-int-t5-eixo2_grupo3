@@ -19,7 +19,11 @@ Olhando para o círculo cromático, temos vários tipos de combinações de core
 
 Essa combinação cria efeitos de calma e harmonia, o que se assemelha ao que buscamos na natureza, nessa busca pelo sustentável, nesse equilíbrio entre o homem e o meio ambiente.
 
+### Tipografia
 
+Uma das principais características da tipografia inspirada na natureza é a escolha de fontes que remetam a elementos naturais, como folhas, galhos, ondas, entre outros. Dessa forma, optamos por fontes com curvas suaves e orgânicas, que transmitam a sensação de harmonia e conexão com a natureza. As fontes escolhidas foram Chalkboard SE e Chalkboard.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/387341bf-2069-43c5-b536-44e7dd1c7821)
 
 
 

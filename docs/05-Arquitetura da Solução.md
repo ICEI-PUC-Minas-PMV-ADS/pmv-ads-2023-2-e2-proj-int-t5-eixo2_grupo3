@@ -25,7 +25,8 @@ A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
 
 ## Projeto da Base de Dados
 
-![Banco de dados (pé de galinha) -  Eco Empreendedores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b4b210a-342e-4c3e-acce-6ae26930896c)
+![Banco de dados (pé de galinha) -  Eco Empreendedores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/46362f97-5197-4de2-bc6d-e311763538b2)
+
 
 
 ## Tecnologias Utilizadas

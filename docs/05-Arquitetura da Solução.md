@@ -13,7 +13,8 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 ## Modelo ER (Projeto Conceitual)
 
-![Modelo entidade ralacionamento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/blob/6a0ff48217874cd11fc0af10278f96ec60f2ce5b/docs/img/Modelo%20entidade%20relacionamento%202.jpeg)
+![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/7989b404-bbb8-415b-a561-3dd2485e9f8a)
+
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.
 
@@ -25,7 +26,7 @@ A referência abaixo irá auxiliá-lo na geração do artefato “Modelo ER”.
 
 ## Projeto da Base de Dados
 
-![Banco de dados (pé de galinha) -  Eco Empreendedores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/46362f97-5197-4de2-bc6d-e311763538b2)
+![Banco de dados (pé de galinha) -  Eco Empreendedores (3)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/2b62ac77-2421-4f06-aa0e-c4d2bfe437ad)
 
 
 

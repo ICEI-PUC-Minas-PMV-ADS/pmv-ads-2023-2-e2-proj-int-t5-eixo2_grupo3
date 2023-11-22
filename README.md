@@ -13,7 +13,7 @@ O Projeto ECO EMPREENDEDORES visa desenvolver uma solução tecnológica que pos
 * Amanda Goncalves Gomes
 * Ana Paula Amantea
 * Breno Amantea
-* Monique Moura Freitas
+* Monique Moura Freitas (desistiu)
 
 ## Orientador
 

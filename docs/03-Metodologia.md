@@ -26,7 +26,7 @@ A quipe está divida da seguinte forma:
 
   Três documentos foram planejados: README, Documentação de Contexto e Especificação do Projeto.
 
-  - README  | As tarefas que foram planejadas | 
+  - README | As tarefas que foram planejadas | 
      
       Nome e Descrião do Projeto, Integrantes e Orientador
           
@@ -48,7 +48,7 @@ A quipe está divida da seguinte forma:
 
   Dois documentos foram planejados: Documentação da Metodologia e Projeto do Github com Backlog e Plano de Sprints.
      
-    - Documentação da Metodologia  | As tarefas que foram planejadas | 
+    - Documentação da Metodologia | As tarefas que foram planejadas | 
      
       Introdução, elaboração dos diagramas, do projeto da base de dados e dos planos de testes
           
@@ -64,26 +64,45 @@ A quipe está divida da seguinte forma:
 
   Cinco documentos foram planejados: Projeto de Interface, Arquitetura da Solução, Plano de Testes de Software, Plano de Testes de Usabilidade e Projeto do Github com Backlog e Plano de Sprints.
      
-     - Projeto de Interface  | As tarefas que foram planejadas | 
+    - Projeto de Interface | As tarefas que foram planejadas | 
      
-       Diagrama de Fluxo e Wireframes
+      Diagrama de Fluxo e Wireframes
           
     - Arquitetura da Solução | As tarefas que foram planejadas | 
      
       Diagrama de Classes, Modelo ER (Projeto Conceitual) e Projeto da Base de Dados
   
-    - Plano de Testes de Software  | As tarefas que foram planejadas | 
+    - Plano de Testes de Software | As tarefas que foram planejadas | 
      
       Plano de Testes de Software
       
-    - Plano de Testes de Usabilidade  | As tarefas que foram planejadas | 
+    - Plano de Testes de Usabilidade | As tarefas que foram planejadas | 
      
       Plano de Testes de Usabilidade
   
      - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
      
        Continuação das Sprints e divisão das tarefas
-       
+
+**Etapa 4:**
+
+
+- Planejamento:
+
+  Três documentos foram planejados: Template Padrão da Aplicação, Avaliação Interna e Projeto do Github com Backlog e Plano de Sprints.
+     
+    - Template Padrão da Aplicação | As tarefas que foram planejadas | 
+     
+       Guia dos estilos e Paleta de Cores e Tipografia
+      
+    - Avaliação Interna | As tarefas que foram planejadas | 
+     
+       Avaliação Interna
+          
+    - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
+     
+       Continuação das Sprints e divisão das tarefas 
+     
 
 ### Ferramentas
 

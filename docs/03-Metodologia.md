@@ -15,14 +15,27 @@ A quipe está divida da seguinte forma:
 
 - **Scrum Master:** Amanda
 - **Product Owner:** Ana Paula
-- **Desenvolvedores:** Breno e Monique
+- **Desenvolvedores:** Breno 
 
 
   ### Processo
 
-
-
 **Etapa 1:**
+
+- Planejamento:
+
+    Três documentos foram planejados: README, Documentação de Contexto e Especificação do Projeto.
+
+      - README | As tarefas que foram planejadas |
+          Nome e Descrião do Projeto, Integrantes, Orientador
+  
+      - Documentação de Contexto | As tarefas que foram planejadas |
+          Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas, Público-Alvo
+
+      - Especificação do Projeto | As tarefas que foram planejadas |
+          Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições, Diagrama de Casos de Uso
+
+**Etapa 2:**
 
 
 - Planejamento:
@@ -43,8 +56,8 @@ A quipe está divida da seguinte forma:
 Ferramentas empregadas no projeto:
 
  - Comunicação: Whatsapp e Google meet.
- - Desenvolvimento de telas: Figma, Creately, Lucidchart.
- - Repositório: GitHub
+ - Desenvolvimento de telas: Figma, Creately, Lucidchart, Visual Code Community.
+ - Repositório: GitHub.
 
 
 ## Controle de Versão

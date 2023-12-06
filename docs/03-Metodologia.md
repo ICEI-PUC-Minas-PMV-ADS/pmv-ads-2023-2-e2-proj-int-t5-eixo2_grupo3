@@ -24,19 +24,19 @@ A quipe está divida da seguinte forma:
 
 - Planejamento:
 
-    Três documentos foram planejados: README, Documentação de Contexto e Especificação do Projeto.
+  Três documentos foram planejados: README, Documentação de Contexto e Especificação do Projeto.
 
-       - README  | As tarefas que foram planejadas | 
+  - README  | As tarefas que foram planejadas | 
      
           Nome e Descrião do Projeto, Integrantes e Orientador
           
      
-       - Documentação de Contexto | As tarefas que foram planejadas | 
+  - Documentação de Contexto | As tarefas que foram planejadas | 
      
           Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas e Público-Alvo
   
 
-      - Especificação do Projeto | As tarefas que foram planejadas |
+  - Especificação do Projeto | As tarefas que foram planejadas |
   
           Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições e Diagrama de Casos de Uso
   
@@ -46,14 +46,14 @@ A quipe está divida da seguinte forma:
 
 - Planejamento:
 
-     Dois documentos foram planejados: Documentação da Metodologia e Projeto do Github com Backlog e Plano de Sprints.
+  Dois documentos foram planejados: Documentação da Metodologia e Projeto do Github com Backlog e Plano de Sprints.
      
-     - Documentação da Metodologia  | As tarefas que foram planejadas | 
+    - Documentação da Metodologia  | As tarefas que foram planejadas | 
      
           Introdução, elaboração dos diagramas, do projeto da base de dados e dos planos de testes
           
      
-     - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
+    - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
      
           Início das Sprints e divisão das tarefas
 
@@ -62,15 +62,23 @@ A quipe está divida da seguinte forma:
 
 - Planejamento:
 
-     Três documentos foram planejados: Projeto de Interface, Arquitetura da Solução e Projeto do Github com Backlog e Plano de Sprints.
+  Cinco documentos foram planejados: Projeto de Interface, Arquitetura da Solução, Plano de Testes de Software, Plano de Testes de Usabilidade e Projeto do Github com Backlog e Plano de Sprints.
      
      - Projeto de Interface  | As tarefas que foram planejadas | 
      
           Diagrama de Fluxo e Wireframes
           
-      - Arquitetura da Solução | As tarefas que foram planejadas | 
+    - Arquitetura da Solução | As tarefas que foram planejadas | 
      
           Diagrama de Classes, Modelo ER (Projeto Conceitual) e Projeto da Base de Dados
+  
+    - Plano de Testes de Software  | As tarefas que foram planejadas | 
+     
+          Plano de Testes de Software
+      
+    - Plano de Testes de Usabilidade  | As tarefas que foram planejadas | 
+     
+          Plano de Testes de Usabilidade
   
      - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
      

@@ -143,6 +143,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-008| O sistema deve permitir que o cliente finalize carrinho de compras | ALTA | 
 |RF-009| O sistema deve dar baixa no estoque ao final de cada venda | ALTA | 
 |RF-010| O sistema deve emitir ao empreendedor um relatório de vendas | ALTA | 
+|RF-011| O sistema deve permitir que o empreendedor vizualizar seus produtos em sua página inicial | ALTA |
+|RF-011| O sistema deve permitir que o cliente vizualizar todos os produtos em sua página inicial em ordem de produtos mais vendidos | ALTA |
+
 
 ### Requisitos não Funcionais
 

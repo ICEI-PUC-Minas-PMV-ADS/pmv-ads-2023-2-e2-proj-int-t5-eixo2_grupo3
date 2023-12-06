@@ -23,49 +23,53 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 
 ## Wireframes
 
-![PÁGINA INICIAL GERAL](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/8c5459c3-17f4-40cf-ab98-55836672a370)
+![01 PÁGINA INICIAL USUÁRIO SEM CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/9caa9722-284d-4590-befe-dce46b273de9)
 
-![Wireframe - 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/8ebfcfd2-8074-43dc-b7eb-34d219ea9df8)
+![02 Wireframe - 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/335417c4-fac7-48c7-b2ee-6a6d6c185853)
 
-![PÁGINA LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/c901ccf5-e26b-4389-b963-f8618bf9c005)
+![03 PÁGINA CARRINHO DE COMPRAS USUÁRIO SEM CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/adcad074-09a0-44ee-9854-89185cc55294)
 
-![Wireframe - 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/503892f8-d6c2-4bc6-ac95-deb85bcc28cb)
+![04 Wireframe - 12](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/7f27c029-b3ee-4b7a-9ab3-a82754a2fddf)
 
-![PÁGINA NOVO CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e98173f8-dad3-431f-a5c3-b6e3a8377693)
+![05 PÁGINA LOGIN](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/0fcc43ab-a129-4674-b823-9d85dd91eef9)
 
-![Wireframe - 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a07bee2f-b85a-441a-8f1f-3e6695d9e659)
+![06 Wireframe - 2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/cc725ced-d716-40a2-8082-a73ecc3d3533)
 
-![PÁGINA PERFIL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a86f104a-c322-43f0-b731-620e90f547a2)
+![07 PÁGINA NOVO CADASTRO](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/57b79ae4-0bc1-479e-9286-cb18892b2dca)
 
-![Wireframe - 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/31666ee5-0ffd-484a-8d92-6085ea2aa77c)
+![08 Wireframe - 3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/4dd3c6f5-8ad6-41c8-8b1a-f36101be9697)
 
-![PÁGINA INICIAL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a3d9a1c8-ba62-41b1-9226-99357ba81124)
+![09 PÁGINA PERFIL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/07387b6f-b3d1-429b-b842-2c8e0654b609)
 
-![Wireframe - 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/d25e8a39-c294-44a5-8995-558f697807b8)
+![10 Wireframe - 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/87d7e8ac-7f0e-412c-bc09-66ea93150984)
 
-![PÁGINA NOVO PRODUTO USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/00ce9fd2-5c97-4a38-9f68-61c2efd8579a)
+![11 PÁGINA PERFIL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/22904155-8677-4b32-bdce-d9a288a1a213)
 
-![Wireframe - 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/943b9659-6bc5-4b28-b09c-91ada10ca2a1)
+![12 Wireframe - 5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/6a736519-70a4-40c3-b77b-14cd18887778)
 
-![PÁGINA RELATÓRIO DE VENDAS USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/bcfca53c-13d3-420f-854e-1597a568259f)
+![13 PÁGINA INICIAL USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/a6c81bd5-400a-48c2-bdf0-0603481c7e52)
 
-![Wireframe - 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b9514664-67a4-4884-ad8f-a7b816b2d8b6)
+![14 Wireframe - 6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b3136b9d-e9d2-46c1-9b88-2c81e8d7293e)
 
-![PÁGINA PERFIL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b1c45223-adbc-4820-bcf3-89146baaea08)
+![15 PÁGINA NOVO PRODUTO USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/590f1a80-ca85-454d-b1a7-d94b4ac1283a)
 
-![Wireframe - 4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/56e51ad4-52f3-4820-a948-44604e284ed1)
+![16 Wireframe - 7](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e6426334-4485-4fd9-9fec-5134db975438)
 
-![PÁGINA INICIAL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1b17cc6f-68b6-48c5-9c7b-0998d7b52de6)
+![17 PÁGINA RELATÓRIO DE VENDAS USUÁRIO EMPREENDEDOR](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/4469778d-758b-49fb-b2bf-66d0b0e15789)
 
-![Wireframe - 9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/43ac1ab7-3e07-4f70-9601-40e0e2d3a8a5)
+![18 Wireframe - 8](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/88ca0a8a-896c-403e-9350-7d8fb05868be)
 
-![PÁGINA CARRINHO DE COMPRAS USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/c38b917b-cb34-428a-aba6-9a17c8fc9fd0)
+![19 PÁGINA INICIAL USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/d27e8d33-de87-47bb-bdc0-04b25c5e9552)
 
-![Wireframe - 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/f2f7007b-19fb-4441-ac9d-0143b2bd1663)
+![20 Wireframe - 9](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/8df1887f-dea1-4999-9979-35616f202d26)
 
-![PÁGINA COMPRA FINALIZADA USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/e39e4e43-a314-489f-9cbd-9e0f431321f3)
+![21 PÁGINA CARRINHO DE COMPRAS USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/74d5949d-2e01-454d-a049-44b63ef7c477)
 
-![Wireframe - 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/9f6130ea-df98-4de7-bc0c-5d2081fb322c)
+![22 Wireframe - 10](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/ccf54335-5f7b-476f-884a-f14077f041d4)
+
+![23 PÁGINA COMPRA FINALIZADA USUÁRIO CLIENTE](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/c9d838f8-8ebe-4915-b5eb-022c6bf347ba)
+
+![24 Wireframe - 11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b86c2ad7-b7c9-4a2e-919b-bc4d769802d0)
 
 
 São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.

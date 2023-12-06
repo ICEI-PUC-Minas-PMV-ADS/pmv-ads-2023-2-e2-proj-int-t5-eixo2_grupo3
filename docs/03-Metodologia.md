@@ -30,9 +30,11 @@ A quipe está divida da seguinte forma:
   
           Nome e Descrião do Projeto, Integrantes, Orientador
   
+  
       - Documentação de Contexto | As tarefas que foram planejadas |
   
           Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas, Público-Alvo
+  
 
       - Especificação do Projeto | As tarefas que foram planejadas |
   

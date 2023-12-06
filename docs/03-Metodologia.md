@@ -28,17 +28,17 @@ A quipe está divida da seguinte forma:
 
   - README  | As tarefas que foram planejadas | 
      
-    Nome e Descrião do Projeto, Integrantes e Orientador
+      Nome e Descrião do Projeto, Integrantes e Orientador
           
      
   - Documentação de Contexto | As tarefas que foram planejadas | 
      
-    Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas e Público-Alvo
+      Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas e Público-Alvo
   
 
   - Especificação do Projeto | As tarefas que foram planejadas |
   
-    Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições e Diagrama de Casos de Uso
+      Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições e Diagrama de Casos de Uso
   
 
 **Etapa 2:**

@@ -26,13 +26,13 @@ A quipe está divida da seguinte forma:
 
     Três documentos foram planejados: README, Documentação de Contexto e Especificação do Projeto.
 
-      - README | As tarefas que foram planejadas |
-  
+       - README  | As tarefas que foram planejadas | 
+     
           Nome e Descrião do Projeto, Integrantes e Orientador
-  
-  
-      - Documentação de Contexto | As tarefas que foram planejadas |
-  
+          
+     
+       - Documentação de Contexto | As tarefas que foram planejadas | 
+     
           Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas e Público-Alvo
   
 

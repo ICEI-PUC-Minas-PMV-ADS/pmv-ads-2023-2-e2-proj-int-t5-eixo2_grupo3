@@ -28,17 +28,18 @@ A quipe está divida da seguinte forma:
 
       - README | As tarefas que foram planejadas |
   
-          Nome e Descrião do Projeto, Integrantes, Orientador
+          Nome e Descrião do Projeto, Integrantes e Orientador
   
   
       - Documentação de Contexto | As tarefas que foram planejadas |
   
-          Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas, Público-Alvo
+          Intrição, Problema, Objetivo, Justificativa, Soluções Relacionadas e Público-Alvo
   
 
       - Especificação do Projeto | As tarefas que foram planejadas |
   
-          Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições, Diagrama de Casos de Uso
+          Personas (Empreenderores e clientes), Histórias de Usuários, Requisitos (Funcionais e Não Funcionais), Restrições e Diagrama de Casos de Uso
+  
 
 **Etapa 2:**
 
@@ -54,7 +55,26 @@ A quipe está divida da seguinte forma:
      
      - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
      
-          Início das Sprints e divisão das tarefas 
+          Início das Sprints e divisão das tarefas
+
+**Etapa 3:**
+
+
+- Planejamento:
+
+     Três documentos foram planejados: Projeto de Interface, Arquitetura da Solução e Projeto do Github com Backlog e Plano de Sprints.
+     
+     - Projeto de Interface  | As tarefas que foram planejadas | 
+     
+          Diagrama de Fluxo e Wireframes
+          
+      - Arquitetura da Solução | As tarefas que foram planejadas | 
+     
+          Diagrama de Classes, Modelo ER (Projeto Conceitual) e Projeto da Base de Dados
+  
+     - Projeto do Github com Backlog e Plano de Sprints | As tarefas que foram planejadas | 
+     
+          Continuação das Sprints e divisão das tarefas 
 
 ### Ferramentas
 

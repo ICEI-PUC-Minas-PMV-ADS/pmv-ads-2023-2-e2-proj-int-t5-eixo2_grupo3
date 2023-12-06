@@ -134,18 +134,20 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| O sistema deve permitir que o usuário do tipo empreendedor ou do tipo cliente gerencie a sua conta | ALTA | 
-|RF-002|O sistema deve permitir que o empreendedor gerencie o produto a ser comercializado | ALTA |
+|RF-002| O sistema deve permitir que o empreendedor gerencie o produto a ser comercializado | ALTA |
 |RF-003| O sistema deve permitir que o empreendedor e o cliente visualize a seção de comentários | BAIXA | 
 |RF-004| O sistema deve permitir que o empreendedor e clientes possam ter uma comunicação na seção de comentários | BAIXA | 
-|RF-005| O sistema deve permitir que o empreendedor informe se o produto é "vegano" ou "não vegano" | ALTA | 
-|RF-006| O sistema deve permitir que o cliente pesquise um produto por critérios diversos | ALTA | 
-|RF-007| O sistema deve permitir que o cliente gerencie os produtos no carrinho de compras | ALTA | 
-|RF-008| O sistema deve permitir que o cliente finalize carrinho de compras | ALTA | 
-|RF-009| O sistema deve dar baixa no estoque ao final de cada venda | ALTA | 
-|RF-010| O sistema deve emitir ao empreendedor um relatório de vendas | ALTA | 
-|RF-011| O sistema deve permitir que o empreendedor vizualizar seus produtos em sua página inicial | ALTA |
+|RF-005| O sistema deve permitir que o cliente pesquise um produto por critérios diversos | ALTA | 
+|RF-006| O sistema deve permitir que o cliente gerencie os produtos no carrinho de compras | ALTA | 
+|RF-007| O sistema deve permitir que o cliente finalize carrinho de compras | ALTA | 
+|RF-008| O sistema deve dar baixa no estoque ao final de cada venda | ALTA | 
+|RF-009| O sistema deve emitir ao empreendedor um relatório de vendas | ALTA | 
+|RF-010| O sistema deve permitir que o empreendedor vizualizar seus produtos em sua página inicial | ALTA |
 |RF-011| O sistema deve permitir que o cliente vizualizar todos os produtos em sua página inicial em ordem de produtos mais vendidos | ALTA |
-
+|RF-012| O sistema deve permitir que um usuário sem cadastro tenha acesso a página inicial sem login | ALTA |
+|RF-013| O sistema deve permitir que um usuário sem cadastro gerencie os produtos no carrinho de compras sem login | ALTA |
+|RF-014| O sistema deve permitir que um usuário sem cadastro faça login na página inicial | ALTA |
+|RF-015| O sistema deve permitir que um usuário sem cadastro faça login nna página carrinho de compras | ALTA |
 
 ### Requisitos não Funcionais
 

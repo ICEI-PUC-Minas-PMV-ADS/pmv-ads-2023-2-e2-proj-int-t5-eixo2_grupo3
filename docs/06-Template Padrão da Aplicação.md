@@ -23,6 +23,22 @@ As fontes escolhidas foram Chalkboard SE e Chalkboard.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/387341bf-2069-43c5-b536-44e7dd1c7821)
 
+## Aplicação nas telas:
+
+Abaixo estão representadas as principais telas desenvolvidas, em suas versões para telas maiores e menores, e a explicação de suas funcionalidades.
+
+### Página Inicial
+
+Ao acessar a aplicação, o usuário inicialmente visualiza a página inicial com os produtos cadastrados e as opções de entrar ou carrinho de compras.
+
+![páginaInicial](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/1d60bb9e-1135-426d-b328-5998ba2062d7)
+
+### Login
+
+Na tela login é possivel acessar a aplicação com um email pré-cadastrado ou fazer um novo cadastro.
+
+![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t5-eixo2_grupo3/assets/129327473/b8f105c7-4e7a-48d3-a618-2690a7ba717b)
+
 
 
 > **Links Úteis**:
